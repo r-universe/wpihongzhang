@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CauchyCP"]
 	path = CauchyCP
 	url = https://github.com/cran/CauchyCP
-	shallow = true
-	registered = true
 [submodule "CKAT"]
 	path = CKAT
 	url = https://github.com/cran/CKAT
-	shallow = true
-	registered = true
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
-	shallow = true
-	registered = true
 [submodule "GFisher"]
 	path = GFisher
 	url = https://github.com/cran/GFisher
-	shallow = true
-	registered = true
 [submodule "Qapprox"]
 	path = Qapprox
 	url = https://github.com/cran/Qapprox
-	shallow = true
-	registered = true
 [submodule "SetTest"]
 	path = SetTest
 	url = https://github.com/cran/SetTest
-	shallow = true
-	registered = true
 [submodule "TFisher"]
 	path = TFisher
 	url = https://github.com/cran/TFisher
-	shallow = true
-	registered = true
