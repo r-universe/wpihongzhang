@@ -2,15 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CauchyCP"]
-	path = CauchyCP
-	url = https://github.com/cran/CauchyCP
 [submodule "CKAT"]
 	path = CKAT
 	url = https://github.com/cran/CKAT
-[submodule "cwot"]
-	path = cwot
-	url = https://github.com/cran/cwot
+[submodule "CauchyCP"]
+	path = CauchyCP
+	url = https://github.com/cran/CauchyCP
 [submodule "GFisher"]
 	path = GFisher
 	url = https://github.com/cran/GFisher
@@ -23,3 +20,6 @@
 [submodule "TFisher"]
 	path = TFisher
 	url = https://github.com/cran/TFisher
+[submodule "cwot"]
+	path = cwot
+	url = https://github.com/cran/cwot
