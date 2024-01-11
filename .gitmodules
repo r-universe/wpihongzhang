@@ -23,3 +23,6 @@
 [submodule "cwot"]
 	path = cwot
 	url = https://github.com/cran/cwot
+[submodule "debest"]
+	path = debest
+	url = https://github.com/cran/debest
