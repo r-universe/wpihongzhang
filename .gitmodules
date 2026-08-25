@@ -5,15 +5,6 @@
 [submodule "CKAT"]
 	path = CKAT
 	url = https://github.com/cran/CKAT
-[submodule "GFisher"]
-	path = GFisher
-	url = https://github.com/cran/GFisher
-[submodule "Qapprox"]
-	path = Qapprox
-	url = https://github.com/cran/Qapprox
-[submodule "SetTest"]
-	path = SetTest
-	url = https://github.com/cran/SetTest
 [submodule "TFisher"]
 	path = TFisher
 	url = https://github.com/cran/TFisher
